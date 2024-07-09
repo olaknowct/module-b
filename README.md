@@ -1,3 +1,3 @@
 # module-b
 
-update v4
+update v5
